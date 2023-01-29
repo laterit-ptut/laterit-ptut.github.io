@@ -1,0 +1,150 @@
+{
+    "points" : [
+      {
+        "name" : {
+          "mg" : "Anosizato",
+          "fr" : "Ile des cents sur la brise",
+          "en" : "Hundred island on the wave"
+        },
+        "text" : {
+          "mg" : "desMG",
+          "fr" : "Le fleuve IKOPA qui traverse tana sert de transport, sert a fournir le sable pour le batiments et aux lavandieres",
+          "en" : "desEN"
+        },
+        
+        "latitude" : 19.642588,
+        "longitude" : 46.801060,
+        "videos" : [
+          {
+            "pathFile" : "IKOPA_01_TanaN1.mp4",
+            "pathThumbnail" : "IKOPA_01_TanaN1.jpg", 
+            "date" : "12/06/1989"
+          },
+          {
+            "pathFile" : "IKOPA_02_FilleRougeLave.mp4",
+            "pathThumbnail" : "IKOPA_02_FilleRougeLave.jpg", 
+            "date" : "12/06/1989"
+          },
+          {
+            "pathFile" : "IKOPA_03_PiroguierSable.mp4",
+            "pathThumbnail" : "IKOPA_03_PiroguierSable.jpg", 
+            "date" : "12/06/1989"
+          }
+        ],
+
+        "proverbes" : {
+          "mg" : {
+            "text" : "Arivo tatatra, zato renirano; faran' ny rano Ikopa ihany. [Houlder 1895 #456, Cousins 1885] ", 
+            "pathFile" : "testM.wav"
+          },
+          "fr" : {
+            "text" : "Thousands of streams, hundreds of rivers all end in the same waters : the Ikopa ", 
+            "pathFile" : "test.wav"
+          },
+          "en" : {
+            "text" : "Mille canaux, cent rivières: leur fin à tous est l' Ikopa.  [Houlder 1895]  (2eme sens : Le mensonge finit toujours par être dévoilé. ", 
+            "pathFile" : "test.wav"
+          }
+        }
+
+      },
+      
+      {
+        "name" : {
+          "mg" : "Ambila Lemaitso",
+          "fr" : "The green curve",
+          "en" : "Le virage vert"
+        },
+        "text" : {
+          "mg" : "desMG",
+          "fr" : "Le bac sur le fleuve était encore manoeuvré à la perche ",
+          "en" : "desEN"
+        },
+        
+        "latitude" : 19.642588,
+        "longitude" : 46.801060,
+        "videos" : [
+          {
+            "pathFile" : "IKOPA_01_TanaN1.mp4",
+            "pathThumbnail" : "IKOPA_01_TanaN1.jpg", 
+            "date" : "12/06/199"
+          },
+          {
+            "pathFile" : "IKOPA_01_TanaN1.mp4",
+            "pathThumbnail" : "IKOPA_01_TanaN1.jpg", 
+            "date" : "12/06/1989"
+          },
+          {
+            "pathFile" : "IKOPA_01_TanaN1.mp4",
+            "pathThumbnail" : "IKOPA_01_TanaN1.jpg", 
+            "date" : "12/06/989"
+          }
+        ],
+
+        "proverbes" : {
+          "mg" : {
+            "text" : "Arivo tatatra, zato renirano; faran' ny rano Ikopa ihany. [Houlder 1895 #456, Cousins 1885] ", 
+            "pathFile" : "testM.wav"
+          },
+          "fr" : {
+            "text" : "Thousands of streams, hundreds of rivers all end in the same waters : the Ikopa ", 
+            "pathFile" : "testM.wav"
+          },
+          "en" : {
+            "text" : "Mille canaux, cent rivières: leur fin à tous est l' Ikopa.  [Houlder 1895]  (2eme sens : Le mensonge finit toujours par être dévoilé. ", 
+            "pathFile" : "testM.wav"
+          }
+        }
+      },
+      
+      {
+        "name" : {
+          "mg" : "Fasina",
+          "fr" : "The green curve",
+          "en" : "Le virage vert"
+        },
+        "text" : {
+          "mg" : "desMG",
+          "fr" : "Le bac sur le fleuve était encore manoeuvré à la perche ",
+          "en" : "desEN"
+        },
+        
+        "latitude" : 19.642588,
+        "longitude" : 46.801060,
+        "videos" : [
+          {
+            "pathFile" : "FASINA_01_PecheFilet.mp4",
+            "pathThumbnail" : "FASINA_01bis_PecheFilet.jpg", 
+            "date" : "12/06/1989"
+          },
+          {
+            "pathFile" : "FASINA_02_PisoVaisselle.mp4",
+            "pathThumbnail" : "FASINA_02bis_PisoVaisselle2.jpg", 
+            "date" : "12/06/1989"
+          },
+          {
+            "pathFile" : "FASINA_03_ZebuDansLeau.mp4",
+            "pathThumbnail" : "FASINA_03_ZebuDansLeau.jpg", 
+            "date" : "12/06/1989"
+          }
+        ], 
+
+        "proverbes" : {
+          "mg" : {
+            "text" : "Arivo tatatra, zato renirano; faran' ny rano Ikopa ihany. [Houlder 1895 #456, Cousins 1885] ", 
+            "pathFile" : "test.wav"
+          },
+          "fr" : {
+            "text" : "Thousands of streams, hundreds of rivers all end in the same waters : the Ikopa ", 
+            "pathFile" : "test.wav"
+          },
+          "en" : {
+            "text" : "Mille canaux, cent rivières: leur fin à tous est l' Ikopa.  [Houlder 1895]  (2eme sens : Le mensonge finit toujours par être dévoilé. ", 
+            "pathFile" : "test.wav"
+          }
+        }
+      }
+  
+  
+    ]
+  }

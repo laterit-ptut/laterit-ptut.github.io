@@ -1,0 +1,560 @@
+{
+  "points": [
+    {
+      "pathFilePicto": "pirogue.png",
+      "name": {
+        "mg": "Anosizato & Ikopa",
+        "fr": "Ile des cents sur la brise",
+        "en": "Hundred island on the wave"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "le fleuve IKOPA qui traverse tana sert de transport, sert a fournir le sable pour le batiments et aux lavandieres",
+        "en": "desEN"
+      },
+      "latitude": -19.2,
+      "longitude": 47.9,
+      "videos": [
+        {
+          "pathFile": "IKOPA_01_TanaRN1PlanLarge.mp4",
+          "pathThumbnail": "IKOPA_01_TanaNOK.jpg"
+        },
+        {
+          "pathFile": "IKOPA_02_FilleRouge.mp4",
+          "pathThumbnail": "IKOPA_02_FilleRougeLaveOK.jpg"
+        },
+        {
+          "pathFile": "IKOPA_03_PiroguierSable.mp4",
+          "pathThumbnail": "IKOPA_03_PiroguierSableOK.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Arivo tatatra, zato renirano; faran' ny rano Ikopa ihany. [Houlder 1895 #456, Cousins 1885] ",
+          "pathFile": "testM.wav"
+        },
+        "en": {
+          "text": "Thousands of streams, hundreds of rivers all end in the same waters : the Ikopa ",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Mille canaux, cent rivières: leur fin à tous est l' Ikopa.  [Houlder 1895]  (2eme sens : Le mensonge finit toujours par être dévoilé. ",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "pieds.png",
+      "name": {
+        "mg": "Ambila Lemaitso",
+        "en": "The green place full of fish traps",
+        "fr": "Verdoyante et pleine de nasses"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "Le bac sur le fleuve était encore manoeuvré à la perche ",
+        "en": "desEN"
+      },
+      "latitude": -18.775352,
+      "longitude": 49.109269,
+      "videos": [
+        {
+          "pathFile": "BAC_01_MonteeVoiture.mp4",
+          "pathThumbnail": "AMBILA-LEMAITSO_01_BacMontee.jpg"
+        },
+        {
+          "pathFile": "BAC_02_Perches.mp4",
+          "pathThumbnail": "AMBILA-LEMAITSO_02_BacPerche.jpg"
+        },
+        {
+          "pathFile": "BAC_03_DescenteVoiture.mp4",
+          "pathThumbnail": "AMBILA-LEMAITSO_03_BacDescente.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Tatamo endriky ny saha, hazo mamoa vola, mamoa voahangy, ka izay tandindominy dia manga, ary izay alokalofany dia maitso. [Nicol 1935 #353]",
+          "pathFile": "testM.wav"
+        },
+        "fr": {
+          "text": "Nénuphar, parure de la nature, couvert d’argent et de perles : ce que tu portes est teinté de bleu, et à ton ombre tout devient vert. [Nicol 1935 #353",
+          "pathFile": "testM.wav"
+        },
+        "en": {
+          "text": "Water lily adorns the plain,  with silver and pearls: everything it carries is tinged with blue, and its shade makes you green. ",
+          "pathFile": "testM.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "charrette.png",
+      "name": {
+        "mg": "Fiherenana",
+        "en": "Where you can recover",
+        "fr": "Là où l'on se ressource"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "Le fleuve FIHERENENA, large mais peu profond",
+        "en": "desEN"
+      },
+      "latitude": -23.305558,
+      "longitude": 43.658987,
+      "videos": [
+        {
+          "pathFile": "FIHERENANA_01_AmontPontAval.mp4",
+          "pathThumbnail": "FIHERENANA_01_AmontPontAvalOK.jpg"
+        },
+        {
+          "pathFile": "FIHERENANA_02_FillePuiseLeau.mp4",
+          "pathThumbnail": "FIHERENANA_02bis_FilleSortdDLeauOK.jpg"
+        },
+        {
+          "pathFile": "FIHERENANA_03_PlanLarge.mp4",
+          "pathThumbnail": "FIHERENANA_03_PlanLargeOK.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Nahoana no tompon-tany ka mantsaka ranom-potaka ?",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Why draw muddy water when you perfectly know where the fountain is . ",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Pourquoi allez-vous puiser de l' eau boueuse ?  Alors que vous êtes du coin [Veyrières 1913 #330] (sous entendu vous savez où est la fontaine ) . Ce proverbe se disait des gens faisant le mal de leur propre gré et sans y être contraints",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "charrette.png",
+      "name": {
+        "mg": "Ambohimavelona",
+        "en": "The mount that keeps you alive",
+        "fr": "La colline qui donne vie"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "On dit que le Riz et l'Eau sont inexorablement liés de la naissance à la mort, il ne pousse que dans l'eau et tu ne peux le cuire que dans de l'eau.",
+        "en": "desEN"
+      },
+      "latitude": -23.439208,
+      "longitude": 44.2,
+      "videos": [
+        {
+          "pathFile": "AMBOHIMAVELONA_01_RecolteRizB108.mp4",
+          "pathThumbnail": "AMBOHIMAVELONA-_01_RecolteRizB108.jpeg"
+        },
+        {
+          "pathFile": "AMBOHIMAVELONA_02_HommeBotteDeRizB108.mp4",
+          "pathThumbnail": "AMBOHIMAVELONA-_02-_HommeBotteDe-RizB108.jpeg"
+        },
+        {
+          "pathFile": "AMBOHIMAVELONA_03_CharretttesB108.mp4",
+          "pathThumbnail": "AMBOHIMAVELONA-_03-_CharrettesB108.jpeg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Mahagaga ahy kosa ny akoho: tsy mananono ka mahavelon-jaza. [Cousins 1885 #1399]",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Amazing that the chicken feeds her chicks although she has no breast ",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Ca m'étonne quand même que la poule nourrisse ses poussins alors qu'elle n'a pas de seins .",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "charrette.png",
+      "name": {
+        "mg": "Menarandra",
+        "en": "Red braids",
+        "fr": "Tresses rouges"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "Après la saison seche , l'eau revient enfin dans le lit de la MANARANRA, les enfants fêtent son retour . ",
+        "en": "desEN"
+      },
+      "latitude": -24.709217,
+      "longitude": 45.064193,
+      "videos": [
+        {
+          "pathFile": "MENARANDRA_01_ArriveeEauGosses.mp4",
+          "pathThumbnail": "MENARANDRA_01bis_ArriveeEauGossesOK.jpg"
+        },
+        {
+          "pathFile": "MENARANDRA_02_PlanLarge.mp4",
+          "pathThumbnail": "MENARANDRA_02bis_PlanLargeOK.jpg"
+        },
+        {
+          "pathFile": "MENARANDRA_03_AvanceeEauSable.mp4",
+          "pathThumbnail": "MENARANDRA_03_AvanceeDeLeauOK.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Maniry ny randrana tsy manendrika.  [Veyrières 1913 #2442]",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Desire a braiding hair that doesn't fits.",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Vouloir une coiffure de tresses qui ne te convient pas . Se disait de ceux qui envient le bonheur des autres",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "pirogue.png",
+      "name": {
+        "mg": "Maroantsetra",
+        "en": "Many sets or positions",
+        "fr": "La où il a beaucoup de resistants ou d'orgueilleux ou d'arbres a talismans"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "Les marchandes viennent en pirogue avec leurs recoltes, pour le jour du marché a MAROANTSETRA a l'embouchure de la MANANARA",
+        "en": "desEN"
+      },
+      "latitude": -15.448929,
+      "longitude": 49.742671,
+      "videos": [
+        {
+          "pathFile": "MAROANTSETRA_01_MarcheFluvialB46.mp4",
+          "pathThumbnail": "MAROANTSETRA_01_MARCHE FLUVIALbeta46.jpg"
+        },
+        {
+          "pathFile": "MAROANTSETRA_02_VoileVersNosyMangabeB4648.mp4",
+          "pathThumbnail": "MAROANTSETRA_02_VoileVersNosyMangabeBeta4648.jpg"
+        },
+        {
+          "pathFile": "MAROANTSETRA_03_DetailPirogueB46.mp4",
+          "pathThumbnail": "MAROANTSETRA_03_DetailPirogueBeta46.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Malahelo amoron-tsena : be sitrapo, fa tsy ampy fanaovana. [Veyrières 1913 #2512, Cousins 1885] ",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Sad like a poor near the market, full of desire but lack of money",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Malheureux tel le pauvre qui vit près du marché: il a beaucoup de désirs, mais n'en a pas les moyens",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "cuisine.png",
+      "name": {
+        "mg": "Fasina",
+        "en": "Sandy",
+        "fr": "Ensablé ou sable"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "Au bord de la Mananara a Fasina le sable plus efficace que Mir vaisselle",
+        "en": "desEN"
+      },
+      "latitude": -16.340646,
+      "longitude": 49.570531,
+      "videos": [
+        {
+          "pathFile": "FASINA_01_PecheFilet.mp4",
+          "pathThumbnail": "FASINA_01bis_PecheFilet.jpg"
+        },
+        {
+          "pathFile": "FASINA_02_PisoVaisselle.mp4",
+          "pathThumbnail": "FASINA_02bis_PisoVaisselle2.jpg"
+        },
+        {
+          "pathFile": "FASINA_03_ZebuDansLeau.mp4",
+          "pathThumbnail": "FASINA_03_ZebuDansLeau.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Ny lainga tahaka ny fasika : mora ama-mandry, fa sarotra ama-mifoha.  [Rinara 1974 #3057] ",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "The lie is like the sand: it seems soft when you lie down, but hard when you get up ",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Le mensonge est comme le sable: il paraît doux quand on s' y couche, mais dur quand on se lève.  [Houlder 1895] ",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "cuisine.png",
+      "name": {
+        "mg": "Rasoamasay",
+        "en": "The second wife",
+        "fr": "La deuxième épouse"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "On raconte que le le Géant Darafify avait deux epouses , la première : RASOABE et la  seconde RASOAMASAY, elles étaient très orgueilleuses et fières de la puissance de Darafify, leur mari, un jour prises en flagrant délit d'adultère, elles furent noyées par dans  des lacs qui désormais portent leur nom, elles vivent au fond de leur lac, et il faut bien respecter tous les tabous pour ne pas attiser leur colère . ",
+        "en": "desEN"
+      },
+      "latitude": -19.3,
+      "longitude": 49.200310,
+      "videos": [
+        {
+          "pathFile": "RASAOMASAY_01_Nasses.mp4",
+          "pathThumbnail": "RASAOMASAY_ 01_Nasses.jpg"
+        },
+        {
+          "pathFile": "RASAOMASAY_02_Joro.mp4",
+          "pathThumbnail": "RASAOMASAY_ 02_Joro.jpg"
+        },
+        {
+          "pathFile": "RASAOMASAY_03_VentePoissons.mp4",
+          "pathThumbnail": "RASAOMASAI_03_VentePoissons.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Tsy misy be alahelo tahaka ny maty vady, fa raha manitsaka androngo, mitsinjaka.  [Cousins 1885 #3511]",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "No one grieves more than a woman who has just lost her husband, yet when she steps on a lizard, she dances.",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Personne n'a autant de chagrin qu' une femme qui vient de perdre son mari, et pourtant quand elle foule aux pieds un lézard, elle danse.  La douleur d'un deuil finira par cesser avec le temps",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "pieds.png",
+      "name": {
+        "mg": "Mahaboboka",
+        "en": "Always wet or full of mod or drunk ",
+        "fr": "Là ça moisit, ça détrempe, ça imbibe et donc ça saoule"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "L'idée de mouillé, de moisissure,  tellement imbibé que ça vous transforme ",
+        "en": "desEN"
+      },
+      "latitude": -22.896856,
+      "longitude": 44.336998,
+      "videos": [
+        {
+          "pathFile": "MAHABOBOKA_01_HommeAGueB108.mp4",
+          "pathThumbnail": "MAHABOBOKA_01_HommeAGueB108-.jpeg"
+        },
+        {
+          "pathFile": "MAHABOBOKA_02_CharretteAGueB108.mp4",
+          "pathThumbnail": "MAHABOBOKA_02_CharretteAGueB108-.jpeg"
+        },
+        {
+          "pathFile": "MAHABOBOKA_03_FemmesAGueB108.mp4",
+          "pathThumbnail": "MAHABOBOKA_03_FemmesAGueB108.jpeg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Tsy misy hazo natao tsy ho boboka, na mahitsy izy na bila.  [Rinara 1974 #4710]",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "There is no tree/wood that does'nt rot  be they straight or twisted",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Il n'existe pas d'arbre qui ne pourrisse pas qu'il soit droit ou tordu.",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "esprit.png",
+      "name": {
+        "mg": "Ankazomalaza",
+        "en": "Holy Wood",
+        "fr": "L'arbre sacré"
+      },
+      "text": {
+        "mg": "desMG",
+        "fr": "Pour que l'esprit des ancetres se manifeste . L'eau sacrée, est là dans la ceremonie de Tromba, ",
+        "en": "desEN"
+      },
+      "latitude": -18.55,
+      "longitude": 47.7,
+      "videos": [
+        {
+          "pathFile": "ANKAZOMALAZA_01_PriereEauB5.mp4",
+          "pathThumbnail": "ANKAZOMALAZA_01_PriereEauB5.jpg"
+        },
+        {
+          "pathFile": "ANKAZOMALAZA_02_TrombaB5.mp4",
+          "pathThumbnail": "ANKAZOMALAZA_02_ TrombaB5.jpg"
+        },
+        {
+          "pathFile": "ANKAZOMALAZA_03_ConsultationB5.mp4",
+          "pathThumbnail": "ANKAZOMALAZA_03_ConsultationB5.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Aza mitarika hazo an-tendrony. [Houlder 1895] ",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Don't pull a tree by the top. That is to say: don't start a business by the wrong end. ",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "Ne tirez pas un arbre en le prenant par la cime . c'est à dire : n'entreprenez pas une affaire par le mauvais bout. ",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "cuisine.png",
+      "name": {
+        "mg": "Antananarivo",
+        "en": "The thousands' city",
+        "fr": "La cité des milles"
+      },
+      "text": {
+        "fr": "Arrachage des jeunes semis de riz à transplanter dans les vastes rizieres ",
+        "en": "Removal of young rice seedlings to be transplanted in large paddy fields"
+      },
+      "latitude": -19.2, 
+      "longitude": 47.483089,
+      "videos": [
+        {
+          "pathFile": "SUR_LA_DIGUE_A_TANA_01_TravellingB120.mp4",
+          "pathThumbnail": "SUR_LA_DIGUE_A_TANA_01_TravellingB120.jpg"
+        },
+        {
+          "pathFile": "SUR_LA_DIGUE_A_TANA_02_FemmeBouturesB120B120.mp4",
+          "pathThumbnail": "SUR_LA_DIGUE_A_TANA_02_FemmeBouturesB120.jpg"
+        },
+        {
+          "pathFile": "SUR_LA DIGUE_A_TANA_03_RepiquesesEnLigneB120.mp4",
+          "pathThumbnail": "SUR_LA_DIGUE_A_TANA_03_RepiquesesEnLigneB120.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Fitia, ketsa, ka izay amindrana azy, aniriany.  [Monde malgache.org 2.415 #5089]",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Love is like the small rice seedlingnevery were you transplant it grows"          ,
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "L'amour c'est comme des plants de riz qui poussent là où on les transplante.  [2.415 #5089] (l'amour c'est changeant",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "cuisine.png",
+      "name": {
+        "mg": "Fianarantsoa",
+        "en": "Good-learning (place)",
+        "fr": "Là où on apprend le bien"
+      },
+      "text": {
+        "en": "Transplanting young rice seedlings every 20 cm",
+        "fr": "Repiquage des jeunes pousses de  riz à repiquer tous les 20 cm"
+      },
+      "latitude": -21.491283, 
+      "longitude": 47.057699,
+      "videos": [
+        {
+          "pathFile": "FIANARANTSOA_01_FilleRoseB116.mp4",
+          "pathThumbnail": "FIANAR_01_RefletFilleRoseB116.jpg"
+        },
+        {
+          "pathFile": "FIANARANTSOA_02_HommeMasseBoueB116.mp4",
+          "pathThumbnail": "FIANAR_02_Homme2B116.jpg"
+        },
+        {
+          "pathFile": "FIANARANTSOA_03_BorneKmB116.mp4",
+          "pathThumbnail": "FIANAR_03_BorneKmB116.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Mitaiza kely manetsa ka be no herikerehina [Monde malgache.org",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "Bullied like a woman feeding her child while transplanting rice seedling ",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "débordée comme une femme qui a un enfant à nourrir pendant le repiquage (être au four et au moulin)",
+          "pathFile": "test.wav"
+        }
+      }
+    },
+    {
+      "pathFilePicto": "pieds.png",
+      "name": {
+        "mg": "Marotaolana",
+        "en": "Lots of bones",
+        "fr": "Gisement d'ossements"
+      },
+      "text": {
+        "fr": "La foret entre les lacs Marotaolana , Rasoabe et Rasoamasay le long de l'Ocean Indien",
+        "en": "The forest and the mangrove in between the pangalanes and the indian ocean "
+      },
+      "latitude": -18.6, 
+      "longitude": 49.5,
+      "videos": [
+        {
+          "pathFile": "MAROTOLANA_01_LacMartolonaB14.mp4",
+          "pathThumbnail": "MAROTOLANA_01_ LacMartolonaB14.jpg"
+        },
+        {
+          "pathFile": "MAROTOLONA_02_MarcheMangroveB16.mp4",
+          "pathThumbnail": "MAROTOLANA_02_MarcheMangrove.jpg"
+        },
+        {
+          "pathFile": "MAROTOLONA_03_ForetVersLacB16.mp4",
+          "pathThumbnail": "MAROTOLANA_03_ForetVersLac.jpg"
+        }
+      ],
+      "proverbes": {
+        "mg": {
+          "text": "Amoron' ala tsy manan-trano be. [2.165 #703, 2.415, 1.1]",
+          "pathFile": "test.wav"
+        },
+        "en": {
+          "text": "To live near the forest only in a cabin . (shoemaker with a bad boot)",
+          "pathFile": "test.wav"
+        },
+        "fr": {
+          "text": "VIvre dans une pauvre cabane au bord de la forêt (cordonnier mal chaussé)",
+          "pathFile": "test.wav"
+        }
+      }
+    }
+  ]
+}
